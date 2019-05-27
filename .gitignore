@@ -1,3 +1,9 @@
+# Morphable Face Model Folder
+PublicMM1/
+
+# Virtual environment
+mfm_venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
