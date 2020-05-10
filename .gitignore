@@ -1,5 +1,7 @@
 # Morphable Face Model Folder
 PublicMM1/
+*.tar.gz
+.idea
 
 # Virtual environment
 mfm_venv/
